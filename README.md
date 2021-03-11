@@ -1,6 +1,8 @@
 # Crash-Course-in-Python-Programming
-These materials are meant as a guide on some key concepts and not a complete list of all the Python operations.
+Welcome to this crash course in Python programming. In these tutorials, I will be sharing some key topic concepts and common python operations. You can find videos for the tutorials here as well to aid your learning. 
+https://youtu.be/v1skV3RIlww
 
-Do use these material with discretion!
+Do note that these materials are meant only as a guide and not a complete list of all the Python operations!
+Use with discretion!
 
-Enjoy and have fun programming!
+Thanks and have fun programming!
